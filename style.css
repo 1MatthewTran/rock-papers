@@ -1,0 +1,12 @@
+.container{
+    display: flex;
+    text-align: center;
+    justify-content: center;
+    gap: 8px;
+}
+body{
+    text-align: center;
+}
+div{
+    margin-bottom: 5px;
+}
